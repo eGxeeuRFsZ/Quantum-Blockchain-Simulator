@@ -9,7 +9,7 @@ A simulator for exploring the interactions between quantum computing and blockch
 
 **Requirements:**
 •   Python 3.7+
-•   Qiskit or Cirq (choose one or install both)
+•   Qiskit
 •   Cryptography library
 
 **Usage:**
